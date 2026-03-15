@@ -25,6 +25,6 @@ Uses pandas and numpy to cater our needs based on constraints ie the players bas
 Uses steamlit to show real time data of all the competetors and real time analysis of the market including fair value , inflation , inflated fair price etc.
 The data can be used further to make decisions in real time and perform well in any auction.
 
-*Note: The author has taken help from tools like gemini to create dashboard using streamlit while all the mathematical ideas are their own.
+*Note: The author has taken help from tools like gemini and openai to create dashboard using streamlit while all the mathematical ideas are their own.
 The author is also keen to take suggestions on missed topics and is willing to add them in future.
 This program may contain some errors and may have missed some topics.
