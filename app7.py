@@ -5,7 +5,7 @@ import numpy as np
 # ==========================================
 # 1. INITIALIZATION & STATE
 # ==========================================
-st.set_page_config(page_title="V5 Warfare Terminal", layout="wide", page_icon="⚔️", initial_sidebar_state="expanded")
+st.set_page_config(page_title="IPL AUCTION", layout="wide", page_icon="⚔️", initial_sidebar_state="expanded")
 
 TEAM_NAMES = ["MY_SQUAD"] + [f"Team_{i}" for i in range(2, 11)]
 
